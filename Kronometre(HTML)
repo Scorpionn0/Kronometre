@@ -1,0 +1,30 @@
+
+	<div class="banner">KRONOMETRE</div>
+  
+
+
+<div class="kronometre">
+  
+  <font id="saat">00</font> <font >:</font> <font id="dakika">00</font> <font>:</font> <font id="saniye">00</font><font>,</font> <font id="salise" style="font-size: 20px;">00</font>
+
+</div>
+
+
+
+
+<div id="dugmeler">
+  
+   <table align="center">
+    <tr>
+      <td align="center"><div id="startKronometre" onclick="startKronometre()"> Başlat</div></td>
+     
+      <td align="center"><div id="turKronometre" onclick=" turKronometre()"> Sırala</div></td>
+    </tr>
+  </table>
+</div>
+
+
+<div id="tur">
+    
+
+</div>
